@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center" xmlns:android="http://schemas.android.com/apk/res/android"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+>
+
+    <TextView
+            android:id="@+id/homeWelcomeMessageTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:text="@string/homeWelcomeMessage"
+            android:textSize="30sp"
+    >
+        <requestFocus />
+    </TextView>
+
+    <TextView
+            android:id="@+id/homeInstructionUpTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:text="@string/homeInstructionUp"
+            android:textSize="20sp"
+    >
+        <requestFocus />
+    </TextView>
+    <TextView
+            android:id="@+id/homeInstructionDownTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:text="@string/homeInstructionDown"
+            android:textSize="20sp"
+    >
+        <requestFocus />
+    </TextView>
+    <TextView
+            android:id="@+id/homeInstructionLeftTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:text="@string/homeInstructionLeft"
+            android:textSize="20sp"
+    >
+        <requestFocus />
+    </TextView>
+    <TextView
+            android:id="@+id/homeInstructionRightTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:text="@string/homeInstructionRight"
+            android:textSize="20sp"
+    >
+        <requestFocus />
+    </TextView>
+
+
+</LinearLayout>
+

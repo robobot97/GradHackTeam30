@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Final Text To Speech</string>
+    <string name="homeWelcomeMessage">You have succesfully logged in. Welcome to the Home page!</string>
+    <string name="homeInstructionUp">Swipe Up for navigation to Account Summary</string>
+    <string name="homeInstructionDown">Swipe Down for Navigation to Fund Transfer</string>
+    <string name="homeInstructionLeft">Swipe Left for navigation to Nearest Branch</string>
+    <string name="homeInstructionRight">Swipe Right for navigation to Call Customer Support</string>
+</resources>
